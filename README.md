@@ -35,7 +35,10 @@ The objective is to understand the dataset, clean the data, identify outliers, a
 - Correlation matrix and heatmap
 
 ### Dataset
-Car Features and MSRP dataset.
+
+The project uses the Car Features and MSRP dataset,
+containing 11,914 records and 16 features related to
+car specifications, fuel economy, and pricing.
 
 Dataset Source: [Kaggle - Car Features and MSRP](https://www.kaggle.com/datasets/CooperUnion/cardataset)
 
